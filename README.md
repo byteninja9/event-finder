@@ -10,7 +10,6 @@ EventFinder is a full-stack web application built with Next.js and Python that a
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 EventFinder is designed to help users find upcoming events based on their interests. By entering a keyword, users can search for events that match their criteria. The application fetches event data using the SerpAPI and displays it in a user-friendly interface.
