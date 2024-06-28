@@ -80,6 +80,9 @@ To configure the backend with your SerpAPI key:
     "api-key" : "your-serpapi-key"
     ```
 
+## Demo:
+![event-finder](https://github.com/byteninja9/event-finder/blob/main/img/event-finder-img.png)
+
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
