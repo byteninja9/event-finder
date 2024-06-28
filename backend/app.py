@@ -16,7 +16,7 @@ def search_events():
         "q": query,
         "hl": "en",
         "gl": "us",
-        "api_key": "e5318aeada3e98d7108db4a1b6c234d5e1261736108e00404b51d051cb99c86d"
+        "api_key": "your_serpapi_key"
     }
 
     searchs = search(params)
